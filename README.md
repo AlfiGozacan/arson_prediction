@@ -3,4 +3,4 @@ In collaboration with Hull City Council, this project involves using multiple da
 
 If following the R code, run compare_lsoas.R before deprivation_lsoas.R.
 
-If following the Jupyter Notebooks, run model_data.ipynb before ml_models.ipynb
+If following the Jupyter Notebooks, run model_data.ipynb before ml_models.ipynb. Furthermore, file_name_v2 is more up-to-date than file_name.
